@@ -11,10 +11,12 @@ function Register()
                <input type="text" id="name" name="name"/>
                <label htmlFor="email">Email</label> 
                <input type="email" id="email" name="email"/>
-               <label htmlFor="name">Course</label> 
+               <label htmlFor="college name">college name</label> 
+               <input type="College name" id="college name" name="college name"/>
+               <label htmlFor="Course">Course</label> 
                <input type="course" id="course" name="course"/>
                 <div >
-                <Button variant="contained">Submit</Button> 
+                <center><Button variant="contained">Submit</Button> </center>
                 </div >
             </form>
         </div>
